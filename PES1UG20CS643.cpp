@@ -1,6 +1,6 @@
 //File: hello.cpp
 #include <iostream>
-using namespace std;
+// using namespace std;
 
 int main(void) {
 //   cout << "Hello, World. This is change in task5!\n";
